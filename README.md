@@ -10,3 +10,15 @@ The model simply classifies a person with and without a sheet of paper.
   </a>
   </kbd>
 </p>
+
+### Test Prediction
+
+<p align="center"> 
+  <kbd>
+    <a href="https://github.com/okoliechykwuka/Person-with-sheet-of-paper-and-card-classification/" target="_blank"><img src="test_image.png">
+  </a>
+  </kbd>
+</p>
+
+
+
